@@ -1,6 +1,6 @@
 # **Evaluating the Association Between Grade 8 ELA IAB Exposure and Summative Pass Rates**
 
-\[View the full report\](./ela-iab-exposure-pass-rate-analysis.html) 
+[View the full report](./ela-iab-exposure-pass-rate-analysis.html) 
 
 ## **Overview**
 
@@ -101,14 +101,16 @@ The IAB may serve as a useful early indicator of summative performance, but addi
 ## **How to Run**
 
 1\. Clone the repository:  
-\`\`\`  
-bash  
-git clone \<repo-url\>  
+```  
+bash
+
+git clone https://github.com/cadupee1464/ela-iab-analysis  
 cd ela-iab-analysis  
-\`\`\`
+```
 
 2\. Open the notebook:  
 `jupyter notebook` OR `jupyter lab`  
+
 3\. Run all cells in:  
 `Ela-iab-exposure-pass-rate-analysis.ipynb`
 
